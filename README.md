@@ -1,5 +1,5 @@
 # My 8-bit CPU Learning Project
-*Last updated: 2026-09-17*
+*Last updated: 2026-09-21*
 
 I started this project because I wanted to understand how a CPU actually runs a program. The idea is to build a simple 8-bit CPU using 74HC / 74HCT logic chips, learning each part as I go.
 
