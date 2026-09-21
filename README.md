@@ -39,3 +39,15 @@ EEPROM programmer to write/read EEPROM via GPIO. The first version I'm working o
 
 Here is the architecture diagram I'm working on, subject to change over time:
 ![CPU Architecture](assets/cpu_architecture.png)
+
+## ALU Circuit Diagram
+
+![ALU Circuit](circuit/ALU.png)
+
+## A & B Register Circuit Diagram
+
+![AB REG Circuit](circuit/A_B_REG.png)
+
+## Flag Register Circuit Diagram
+
+![FLAG REG Circuit](circuit/FLAG_REG.png)
