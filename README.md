@@ -38,3 +38,4 @@ Programs are stored in EEPROM (AT28C256). I plan to use an Arduino or another mi
 EEPROM programmer to write/read EEPROM via GPIO. The first version I'm working on has no RAM; all working values stay in the registers.
 
 Here is the architecture diagram I'm working on, subject to change over time:
+![CPU Architecture](assets/cpu_architecture.png)
